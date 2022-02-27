@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhehao Li. 
-- 👀 I’m interested in physics simulation in computer graphics and 3D digital content creation. 
+- 👀 I’m interested in simulate digital world physically and explore how people can create 3D digital content in a more intuitive way. 
 - 🌱 I’m currently a research assistant in USTC, China. 
 - 💞️ I’m looking to collaborate on research about computer graphics.
 - 📫 You can reach me by sending email to richardhall@mail.ustc.edu.cn.
